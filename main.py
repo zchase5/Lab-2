@@ -52,5 +52,3 @@ except KeyboardInterrupt:
     print('\nExiting')
 
 GPIO.cleanup()
-
-
