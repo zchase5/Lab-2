@@ -50,5 +50,4 @@ try:
             sleep(0.5)
 except KeyboardInterrupt:
     print('\nExiting')
-
-GPIO.cleanup()
+    GPIO.cleanup()
